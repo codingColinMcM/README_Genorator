@@ -26,10 +26,14 @@ hell
 <a name="test"></a>
 ## Test Instructions
 
-<a name="lice"></a>![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+<a name="lice"></a>
+## License
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 <a name="user"></a>
 ## Contributer GitHub Username
+https://github.com/codingColinMcM
 
 <a name="email"></a>
 ## Contributer Email
+mcmurtraycolin@gmail.com
