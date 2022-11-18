@@ -1,8 +1,10 @@
-# debate
+# New Project
+
+![GitHub license](https://img.shields.io/badge/license-zLib License-blue.svg)
 
 ## Description
 
-hell
+This is my description
 
 ## Table of Contents
 
@@ -10,30 +12,33 @@ hell
 2. [ Usage Information. ](#info)
 3. [ Contribution Guidelines. ](#guide)
 4. [ Test Instructions. ](#test)
-5. [ License. ](#lice)
-6. [ Contributer GitHub Username. ](#user)
-7. [ Contributer Email. ](#email)
+5. [ If you have questions, contact me at. ](#quest)
 
 <a name="inst"></a>
 ## Installation Instructions
 
+npm i
+
 <a name="info"></a>
 ## Usage Information
+
+use node.js
 
 <a name="guide"></a>
 ## Contribution Guidelines
 
+Make some pull requests
+
 <a name="test"></a>
 ## Test Instructions
 
-<a name="lice"></a>
-## License
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+Set up tests before coding
 
-<a name="user"></a>
-## Contributer GitHub Username
+<a name="quest"></a>
+## If you have questions, contact me at
+
 https://github.com/codingColinMcM
 
-<a name="email"></a>
-## Contributer Email
+### or email me at
+
 mcmurtraycolin@gmail.com
